@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "url": "mongodb://192.168.0.105:27017/auth",
+        "host": "192.168.0.105",
+        "port": 27017,
+        "dbName": "customers"
+    },
+    "secretKey": "HowAreYou"
+}
